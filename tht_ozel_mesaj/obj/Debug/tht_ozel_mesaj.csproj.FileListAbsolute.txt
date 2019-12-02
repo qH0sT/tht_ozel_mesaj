@@ -1,0 +1,13 @@
+c:\users\harun\documents\visual studio 2015\Projects\tht_ozel_mesaj\tht_ozel_mesaj\bin\Debug\tht_ozel_mesaj.exe.config
+c:\users\harun\documents\visual studio 2015\Projects\tht_ozel_mesaj\tht_ozel_mesaj\obj\Debug\tht_ozel_mesaj.csprojResolveAssemblyReference.cache
+c:\users\harun\documents\visual studio 2015\Projects\tht_ozel_mesaj\tht_ozel_mesaj\obj\Debug\tht_ozel_mesaj.Properties.Resources.resources
+c:\users\harun\documents\visual studio 2015\Projects\tht_ozel_mesaj\tht_ozel_mesaj\obj\Debug\tht_ozel_mesaj.csproj.GenerateResource.Cache
+c:\users\harun\documents\visual studio 2015\Projects\tht_ozel_mesaj\tht_ozel_mesaj\obj\Debug\tht_ozel_mesaj.exe
+c:\users\harun\documents\visual studio 2015\Projects\tht_ozel_mesaj\tht_ozel_mesaj\obj\Debug\tht_ozel_mesaj.pdb
+c:\users\harun\documents\visual studio 2015\Projects\tht_ozel_mesaj\tht_ozel_mesaj\bin\Debug\tht_ozel_mesaj.exe
+c:\users\harun\documents\visual studio 2015\Projects\tht_ozel_mesaj\tht_ozel_mesaj\bin\Debug\tht_ozel_mesaj.pdb
+c:\users\harun\documents\visual studio 2015\Projects\tht_ozel_mesaj\tht_ozel_mesaj\bin\Debug\Geckofx-Core.dll
+c:\users\harun\documents\visual studio 2015\Projects\tht_ozel_mesaj\tht_ozel_mesaj\bin\Debug\Geckofx-Winforms.dll
+c:\users\harun\documents\visual studio 2015\Projects\tht_ozel_mesaj\tht_ozel_mesaj\bin\Debug\Geckofx-Core.pdb
+c:\users\harun\documents\visual studio 2015\Projects\tht_ozel_mesaj\tht_ozel_mesaj\bin\Debug\Geckofx-Winforms.pdb
+c:\users\harun\documents\visual studio 2015\Projects\tht_ozel_mesaj\tht_ozel_mesaj\obj\Debug\tht_ozel_mesaj.Form1.resources
